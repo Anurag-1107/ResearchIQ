@@ -975,7 +975,7 @@ Before pushing the project to GitHub, verify that no API keys or other secrets a
 
 ## Author
 
-**Rajveer Singh**
+**Anurag Gupta**
 
 ResearchIQ is a portfolio project demonstrating the design and implementation of an evidence-grounded research paper analysis system using modern RAG techniques.
 
