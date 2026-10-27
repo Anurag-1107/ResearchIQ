@@ -1,0 +1,27 @@
+# Environment
+.env
+.researchiq-env/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# Local data
+data/raw/
+data/uploads/
+storage/chroma/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
